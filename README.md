@@ -1,4 +1,13 @@
 📊 Sales Data Analysis for Retail Store 🛒
+
+![demo](https://github.com/Tanmay1112004/Sales-Data-Analysis-for-Retail-Store/blob/main/Sales%20Data%20Analysis%20For%20Retail%20Store%20Using%20Statistical%20Approch/app%20screenshots/Screenshot%202025-07-31%20102059.png)
+
+![demo](https://github.com/Tanmay1112004/Sales-Data-Analysis-for-Retail-Store/blob/main/Sales%20Data%20Analysis%20For%20Retail%20Store%20Using%20Statistical%20Approch/app%20screenshots/Screenshot%202025-07-31%20102143.png)
+
+![demo](https://github.com/Tanmay1112004/Sales-Data-Analysis-for-Retail-Store/blob/main/Sales%20Data%20Analysis%20For%20Retail%20Store%20Using%20Statistical%20Approch/app%20screenshots/Screenshot%202025-07-31%20102243.png)
+
+![demo](https://github.com/Tanmay1112004/Sales-Data-Analysis-for-Retail-Store/blob/main/Sales%20Data%20Analysis%20For%20Retail%20Store%20Using%20Statistical%20Approch/app%20screenshots/Screenshot%202025-07-31%20102323.png)
+
 🚀 Overview
 Welcome to the Sales Data Analysis for Retail Store project! This Python-based analysis dives into retail sales data to uncover trends, test hypotheses, and visualize performance across product categories. Using statistical approaches, it empowers retail managers to make data-driven decisions for inventory and marketing strategies. 📈
 📋 Project Description
