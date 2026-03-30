@@ -230,13 +230,3 @@ If this project helped you:
 > “Without data, you’re just another person with an opinion.”
 
 ---
-
-If you want next-level upgrades, I can also give:
-
-🔥 Resume bullet points (ATS optimized)
-🔥 Interview questions based on this project
-🔥 Power BI dashboard version
-🔥 LinkedIn post (high engagement)
-🔥 Add ML model to upgrade this project
-
-Just tell me 👍
