@@ -14,6 +14,16 @@ This project performs a comprehensive **statistical and exploratory analysis** o
 
 ![demo](https://github.com/Tanmay1112004/Sales-Data-Analysis-for-Retail-Store/blob/main/Sales%20Data%20Analysis%20For%20Retail%20Store%20Using%20Statistical%20Approch/app%20screenshots/Screenshot%202025-07-31%20102143.png)
 
+![demo](https://github.com/Tanmay1112004/Sales-Data-Analysis-for-Retail-Store/blob/main/Sales%20Data%20Analysis%20For%20Retail%20Store%20Using%20Statistical%20Approch/app%20screenshots/Screenshot%202025-07-31%20102243.png)
+
+![demo](https://github.com/Tanmay1112004/Sales-Data-Analysis-for-Retail-Store/blob/main/Sales%20Data%20Analysis%20For%20Retail%20Store%20Using%20Statistical%20Approch/app%20screenshots/Screenshot%202025-07-31%20102323.png)
+![demo](https://github.com/Tanmay1112004/Sales-Data-Analysis-for-Retail-Store/blob/main/Sales%20Data%20Analysis%20For%20Retail%20Store%20Using%20Statistical%20Approch/app%20screenshots/Screenshot%202025-07-31%20102059.png)
+
+![demo](https://github.com/Tanmay1112004/Sales-Data-Analysis-for-Retail-Store/blob/main/Sales%20Data%20Analysis%20For%20Retail%20Store%20Using%20Statistical%20Approch/app%20screenshots/Screenshot%202025-07-31%20102143.png)
+
+![demo](https://github.com/Tanmay1112004/Sales-Data-Analysis-for-Retail-Store/blob/main/Sales%20Data%20Analysis%20For%20Retail%20Store%20Using%20Statistical%20Approch/app%20screenshots/Screenshot%202025-07-31%20102243.png)
+
+![demo](https://github.com/Tanmay1112004/Sales-Data-Analysis-for-Retail-Store/blob/main/Sales%20Data%20Analysis%20For%20Retail%20Store%20Using%20Statistical%20Approch/app%20screenshots/Screenshot%202025-07-31%20102323.png)
 
 ----
 
