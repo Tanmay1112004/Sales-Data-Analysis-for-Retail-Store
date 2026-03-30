@@ -1,7 +1,3 @@
-Here’s your **Recruiter-Grade, Clean & Impactful README** — polished for Data Analyst / Data Science roles 📊🚀
-
----
-
 # 📊 Sales Data Analysis for Retail Store
 
 ### Turning Retail Data into Actionable Business Insights 🛒
